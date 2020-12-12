@@ -41,6 +41,4 @@ spec:
                 value: ""
               - name: TARGET_HOSTNAME
                 value: ""
-          imagePullSecrets:
-          - name: regcred
           restartPolicy: Never
